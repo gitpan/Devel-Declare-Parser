@@ -13,7 +13,7 @@ name: Devel-Declare-Parser
 provides:
   Devel::Declare::Parser:
     file: lib/Devel/Declare/Parser.pm
-    version: 0.010
+    version: 0.011
   Devel::Declare::Parser::Begin:
     file: lib/Devel/Declare/Parser/Begin.pm
   Devel::Declare::Parser::Codeblock:
@@ -38,4 +38,4 @@ resources:
   bugtracker: http://github.com/exodist/Devel-Declare-Parser/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/exodist/Devel-Declare-Parser
-version: 0.010
+version: 0.011
