@@ -1,6 +1,6 @@
 Build.PL
+lib/Devel/Declare/Interface.pm
 lib/Devel/Declare/Parser.pm
-lib/Devel/Declare/Parser/Begin.pm
 lib/Devel/Declare/Parser/Codeblock.pm
 lib/Devel/Declare/Parser/Emulate.pm
 lib/Devel/Declare/Parser/Export.pm
@@ -9,7 +9,6 @@ lib/Devel/Declare/Parser/Sublike.pm
 MANIFEST			This list of files
 META.yml
 README
-t/Begin.t
 t/Codeblock.t
 t/Export.t
 t/Method.t
